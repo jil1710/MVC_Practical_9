@@ -1,0 +1,13 @@
+﻿.BoldLableBtn{
+    font-weight : bold;
+}
+
+.ItalicLableBtn{
+    font-style : italic;
+}
+
+.UnderlineLableBtn{
+    text-decoration : underline;
+}
+
+
